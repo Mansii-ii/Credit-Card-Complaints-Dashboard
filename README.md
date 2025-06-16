@@ -17,6 +17,7 @@ Features
  * Geospatial Visualization: Utilizes a map to show complaint density by state.
  * Categorization: Classifies complaints by various parameters such as "Top Issues" and "Company Response."
  * Export Functionality: Allows for exporting dashboard views or underlying data (e.g., PDF).
+ * 
 Technologies Used
  * Tableau Public 
  * Data Source: Excel
