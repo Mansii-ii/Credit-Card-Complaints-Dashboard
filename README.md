@@ -16,8 +16,7 @@ Features
  * Historical Data Analysis: Provides a timeline view of complaints from 2015 to 2021 (based on the image).
  * Geospatial Visualization: Utilizes a map to show complaint density by state.
  * Categorization: Classifies complaints by various parameters such as "Top Issues" and "Company Response."
- * Export Functionality: Allows for exporting dashboard views or underlying data (e.g., PDF).
- * 
+ * Export Functionality: Allows for exporting dashboard views or underlying data (e.g., PDF). 
 Technologies Used
  * Tableau Public 
  * Data Source: Excel
