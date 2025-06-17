@@ -1,4 +1,5 @@
 # Credit-Card-Complaints-Dashboard
+![Tableau](https://github.com/user-attachments/assets/d961590a-5cb6-4d0f-9431-66d6a8b0a005)
 This repository contains the files and resources for the Credit Card Complaints Dashboard, a data visualization project designed to track and analyze consumer complaints related to credit cards. The dashboard provides insights into complaint volume, timely responses, complaint status, and geographical distribution.
 Overview
 The Credit Card Complaints Dashboard offers a comprehensive view of complaint data, enabling users to:
